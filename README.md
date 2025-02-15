@@ -8,7 +8,7 @@ Install Pixel Launcher and all of it's dependencies systemlessly.
 
 ## How to pack it yourself?
 * Clone the repository.
-  `git clone https://github.com/mrdoge0/StandalonePixelLauncherInstaller -b main`
+  `git clone https://github.com/mrdoge0/StandalonePixelLauncher -b main && cd StandalonePixelLauncher`
 * Download the blobs.
   `wget https://github.com/mrdoge0/StandalonePixelLauncher/releases/download/15.0.0/ProprietaryBlobs.tar.xz`
 * Extract the blobs.
