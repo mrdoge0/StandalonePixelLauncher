@@ -1,6 +1,6 @@
 id=standalone_pixel_launcher
 name=Standalone Pixel Launcher
-version=15.0.0
-versionCode=1500
+version=15.0.0-R2
+versionCode=1501
 author=mrdoge0
 description=Install Pixel Launcher and all of it's dependencies systemlessly.
